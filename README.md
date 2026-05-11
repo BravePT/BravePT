@@ -2,21 +2,21 @@
 
 DevOps / Site Reliability Engineer specializing in blockchain infrastructure and bare-metal operations.
 
-I work primarily on validator operations, masternode fleets, and self-hosted infrastructure tooling. When the tools I need don't exist, I build them.
+I work primarily on validator operations, masternode fleets, and self-hosted infrastructure tooling. I enjoy solving operational problems — picking the right tool, combining what exists, and when nothing fits, building something that does.
 
 ## Current Project
 
 ### [Unvara](https://github.com/BravePT/unvara) — self-hosted infrastructure platform
 
-Turns raw Ubuntu servers into a private, manageable cluster. Handles SSH onboarding, WireGuard mesh, Docker workloads, Ansible runbooks, and cluster visibility through a single web UI.
+Turns raw Ubuntu servers into a private, manageable cluster. Handles SSH onboarding, WireGuard mesh, Docker workloads, Ansible runbooks, and cluster visibility through a lightweight web UI.
 
-Currently in alpha. Built because managing infrastructure at scale shouldn't require a hosted control plane.
+Currently in alpha. Built because managing your own infrastructure shouldn't require depending on a hosted control plane.
 
 ## What I Do
 
 - **Blockchain Infrastructure** — Validator nodes, masternodes, multi-chain operations
 - **Self-hosted & bare-metal** — Server provisioning, private clusters, automation
-- **Observability** — Prometheus, Grafana, Loki, centralized logging
+- **Observability** — Prometheus, Grafana, Loki, logging pipelines
 - **Automation** — Ansible, Docker, Python, FastAPI
 - **Networking & security** — WireGuard, firewalls, SSH hardening, reverse proxies
 
